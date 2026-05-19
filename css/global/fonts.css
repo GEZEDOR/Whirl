@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "Fraunces";
+    font-weight: 400;
+    src: url("../../fonts/Fraunces-VariableFont_SOFT,WONK,opsz,wght.ttf")
+        format("truetype");
+}
+
+@font-face {
+    font-family: "Inter";
+    font-weight: 400;
+    src: url("../../fonts/Inter-VariableFont_opsz,wght.ttf") format("truetype");
+}

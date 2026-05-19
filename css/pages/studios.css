@@ -1,0 +1,19 @@
+.studios {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 27px;
+    max-width: 740px;
+    text-align: center;
+}
+
+.studios__examples {
+    display: flex;
+    gap: 61px;
+}
+
+.studios__examples img {
+    height: auto;
+    max-width: 25%;
+    object-fit: contain;
+}

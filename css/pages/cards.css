@@ -1,0 +1,47 @@
+.cards {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.cards__container {
+  display: flex;
+  gap: 30px;
+}
+
+.cards__card {
+  padding: 36px 40px 38px 33px;
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+}
+
+.cards__card h3 {
+  font-family: "Fraunces", serif;
+  font-size: 25px;
+  line-height: 125%;
+  font-weight: 400;
+}
+
+.cards__card p {
+  font-size: 15px;
+}
+
+.cards__card img {
+  height: auto;
+  object-fit: cover;
+  display: block;
+  width: 55px;
+}
+
+.yellow {
+  background: #faea73;
+}
+
+.blue {
+  background: #cceff6;
+}
+
+.pink {
+  background: #f7cedc;
+}
